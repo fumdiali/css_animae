@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+     <title>Shifty Balls</title>
+     <link rel="stylesheet" href="index.css"/>
+  </head>
+  <body>
+    <div class="container">
+    
+      <div class="ball"></div>
+      <div class="ball"></div>
+      <div class="ball"></div>
+      <div class="ball"></div>
+      <div class="ball"></div>
+      <div class="ball"></div>    
+    
+    </div>
+  </body>
+
+
+</html>
