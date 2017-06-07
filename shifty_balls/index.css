@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #0E1013;
+    background: #ffffff;
 }
 
 .container {
@@ -19,42 +19,42 @@ body {
 }
 
 .ball:nth-child(1) {
-    background: #ff005d;
+    background: #ff0033;
     -webkit-animation: right 1s infinite ease-in-out;
     -moz-animation: right 1s infinite ease-in-out;
     animation: right 1s infinite ease-in-out;
 }
 
 .ball:nth-child(2) {
-    background: #35ff99;
+    background: #ff3333;
     -webkit-animation: left 1.1s infinite ease-in-out;
     -moz-animation: left 1.1s infinite ease-in-out;
     animation: left 1.1s infinite ease-in-out;
 }
 
 .ball:nth-child(3) {
-    background: #008597;
+    background: #ff9933;
     -webkit-animation: right 1.05s infinite ease-in-out;
     -moz-animation: right 1.05s infinite ease-in-out;
     animation: right 1.05s infinite ease-in-out;
 }
 
 .ball:nth-child(4) {
-    background: #ffcc00;
+    background: #cc0033;
     -webkit-animation: left 1.15s infinite ease-in-out;
     -moz-animation: left 1.15s infinite ease-in-out;
     animation: left 1.15s infinite ease-in-out;
 }
 
 .ball:nth-child(5) {
-    background: #2d3443;
+    background: #99ff33;
     -webkit-animation: right 1.1s infinite ease-in-out;
     -moz-animation: right 1.1s infinite ease-in-out;
     animation: right 1.1s infinite ease-in-out;
 }
 
 .ball:nth-child(6) {
-    background: #ff7c35;
+    background: #999900;
     -webkit-animation: left 1.05s infinite ease-in-out;
     -moz-animation: left 1.05s infinite ease-in-out;
     animation: left 1.05s infinite ease-in-out;
