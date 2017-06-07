@@ -2,7 +2,19 @@ body {
     margin: 0;
     padding: 0;
     background: #ffffff;
+    -webkit-transition:
+      background-color 3s ease-out;
+      -moz-transition:
+      background-color 3s ease-out;
+      -o-transition:
+      background-color 3s ease-out;
+      transition:
+      background-color 3s ease-out;
 }
+body:hover {
+     background-color: green;
+     cursor: pointer;
+   }
 
 .container {
     width: 200px;
